@@ -113,5 +113,10 @@ public class ApiTest {
 
     }
 
+    @Test
+    public void test_1(){
+        System.out.println(Integer.parseInt("ASD"));
+    }
+
 
 }
