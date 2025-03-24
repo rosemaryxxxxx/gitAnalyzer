@@ -126,5 +126,8 @@ public class ApiTest {
         return 0;
     }
 
+    public int testshow324(int a, int b){
+        return a/b;
+    }
 
 }
