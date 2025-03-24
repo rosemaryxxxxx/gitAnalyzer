@@ -119,4 +119,10 @@ public class ApiTest {
     }
 
 
+    public int test(int a, int b){
+        float c = a/0;
+        return a + b;
+    }
+
+
 }
