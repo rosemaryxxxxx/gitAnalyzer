@@ -131,4 +131,8 @@ public class ApiTest {
         return a/b;
     }
 
+    public void len(String s){
+        System.out.println(s.length());
+    }
+
 }
